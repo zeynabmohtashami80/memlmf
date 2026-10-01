@@ -1,0 +1,6 @@
+{
+  "name": "دوره ترید شخصی",
+  "description": "دوره آموزش ترید — نسخه سازمان‌یافته با ۶ فصل، ۲۳ جلسه آموزشی، حفظ ۱۰۰٪ اصالت متن استاد و توضیحات تکمیلی AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
